@@ -1,0 +1,10 @@
+{
+  "name": "hyderabadtechweek.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/check-local-paths.mjs",
+    "serve": "python3 -m http.server 4173"
+  }
+}
